@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+    <title>MY PROFILE</title>
+    <style>
+        body{background-color:bisque;
+        color:black;
+    font: size 30px;
+font-family: monospace;}
+h1{background-color:gray;
+color:cadetblue;
+font-size:10px;}
+}
+
+    </style>
+</head>
+<body>
+--!navigation---
+   <nav><h1>THIS IS MY PORTFOLIO</h1>
+    <p>I am Emebet worku Beyene</p>
+    <p>I am grade 11 student</p>
+    
+</body>
